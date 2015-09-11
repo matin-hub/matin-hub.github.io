@@ -1,0 +1,40 @@
+# Site settings
+title: MATIN
+email: your-email@domain.com
+url: https://matin-hub.github.io
+description: "MATIN is an e-Collaboration platform in development that aims to facilitate better and faster reasearch in the field of Materials Science through efficient workflow augmentation and automation strategies."
+skills: "MATIN is an e-Collaboration platform that aims to facilitate better and faster reasearch in the field of Materials Science through efficient workflow augmentation and automation strategies."
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 80B3FF #80B3FF
+  primary-rgb: "128,179,255" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: MATIN
+  location: Maintained By
+  social: Find Us At
+  credits: Funded By
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/matin-hub
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
