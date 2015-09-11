@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: http://materialsinnovation.github.io/pymks/_static/pymks_logo.png
+img: http://materialsinnovation.github.io/pymks/_images/elasticity_2D_24_0.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
