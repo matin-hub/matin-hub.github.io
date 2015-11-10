@@ -90,6 +90,11 @@ header .container {
     padding-bottom: 50px;
 }
 
+header .container2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 header img {
     display: block;
     margin: 0 auto 20px;
@@ -97,15 +102,30 @@ header img {
 
 header .intro-text .name {
     display: block;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
+    color: white;
 }
 
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
+    color: white;
+}
+
+header .intro-text .description1 {
+    font-size: 1.25em;
+    font-weight: 300;
+    color: white;
+}
+
+header .intro-text .description2 {
+    font-size: 1.25em;
+    font-weight: 300;
+    color: white;
+    /*padding-top: 100px;*/
 }
 
 @media(min-width:768px) {
@@ -114,12 +134,28 @@ header .intro-text .skills {
         padding-bottom: 100px;
     }
 
+    header .container2 {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        margin: 0 auto;
+        max-width: 1000px;
+    }
+
     header .intro-text .name {
         font-size: 4.75em;
     }
 
     header .intro-text .skills {
         font-size: 1.75em;
+    }
+
+    header .intro-text .description1 {
+        font-size: 1.75em;
+    }
+
+    header .intro-text .description2 {
+        font-size: 2.0em;
+        max-width: 100px;
     }
 }
 
@@ -170,9 +206,20 @@ header .intro-text .skills {
     border: 0;
 }
 
+
+
 section {
-    padding: 100px 0;
+    /*padding: 100px 0;*/
 }
+ 
+section#tools {
+    padding-top: 100px;
+}
+
+section#portfolio {
+    padding-bottom: 100px;
+}
+
 
 section h2 {
     margin: 0;

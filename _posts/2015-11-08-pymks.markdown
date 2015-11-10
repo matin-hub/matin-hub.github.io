@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+date: 2015-11-08
+img: large_pymks_logo_no_text.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: tool
+description: The Materials Knowledge Materials in Python (PyMKS) framework is an object oriented set of tools and examples written in Python that provide high level access to the MKS framework for rapid creation and analysis of structure-property-processing relationships.
+
+
+
+---
