@@ -1,9 +1,10 @@
 # Site settings
-title: MATIN
+title: Meet MATIN
 email: your-email@domain.com
 url: https://matin-hub.github.io
-description: "MATIN is an e-Collaboration platform in development that aims to facilitate better and faster reasearch in the field of Materials Science through efficient workflow augmentation and automation strategies."
-skills: "MATIN is an e-Collaboration platform that aims to facilitate better and faster reasearch in the field of Materials Science through efficient workflow augmentation and automation strategies."
+description1: "An e-Collaboration platform (in development!) in material science."
+description2: "Facilitate better and faster research in the field of material science through efficient workflow augmentation and automation strategies."
+skills: "An e-Collaboration platform that aims to facilitate better and faster research through efficient workflow augmentation and automation strategies."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
